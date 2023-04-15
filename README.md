@@ -1,1 +1,1 @@
-Chương trình nhập ký tự và mã ASCII, Hiển thị bảng mã ASCII!
+Chương trình nhập ký tự hoặc mã ASCII để chuyển đổi
