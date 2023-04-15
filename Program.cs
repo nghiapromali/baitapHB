@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 
 namespace chuyendoihienthiascii
@@ -11,7 +11,7 @@ namespace chuyendoihienthiascii
 
             Console.WriteLine("Chương trình nhập ký tự và mã ASCII");
             Console.WriteLine("1. Nhập một ký tự để hiển thị mã ASCII");
-            Console.WriteLine("2. Nhập một mã ASCII để hiển thị ký tự");
+            Console.WriteLine("2. Nhập một mã ASCII để hiển thị ký tự (0 đến 127)");
             Console.WriteLine("3. Hiển thị bảng mã ASCII");
             Console.Write("Nhập tuỳ chọn từ 1 đến 3  ");
 
