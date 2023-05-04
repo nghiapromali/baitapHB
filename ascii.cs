@@ -32,7 +32,7 @@ namespace chuyendoihienthiascii
                     break;
                 case 3:
                     Console.WriteLine("Hiển thị bảng mã ASCII: ");
-                    for (int i = 0; i < 128; i++)
+                    for (int i = 0; i < 256; i++)
                     {
                         char asciiikytu = (char)i;
                         Console.WriteLine($"Mã {i} : {asciiikytu}");
